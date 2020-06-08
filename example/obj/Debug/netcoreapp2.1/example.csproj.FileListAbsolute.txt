@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\example\bin\Debug\netcoreapp2.1\setting.json
+\\Mac\Home\Documents\example\bin\Debug\netcoreapp2.1\example.deps.json
+\\Mac\Home\Documents\example\bin\Debug\netcoreapp2.1\example.runtimeconfig.json
+\\Mac\Home\Documents\example\bin\Debug\netcoreapp2.1\example.runtimeconfig.dev.json
+\\Mac\Home\Documents\example\bin\Debug\netcoreapp2.1\example.dll
+\\Mac\Home\Documents\example\bin\Debug\netcoreapp2.1\example.pdb
+\\Mac\Home\Documents\example\obj\Debug\netcoreapp2.1\example.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\example\obj\Debug\netcoreapp2.1\example.AssemblyInfo.cs
+\\Mac\Home\Documents\example\obj\Debug\netcoreapp2.1\example.dll
+\\Mac\Home\Documents\example\obj\Debug\netcoreapp2.1\example.pdb
+\\Mac\Home\Documents\example\obj\Debug\netcoreapp2.1\example.csprojAssemblyReference.cache
